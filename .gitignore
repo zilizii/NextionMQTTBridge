@@ -3,4 +3,5 @@
 
 .cproject
 .project
+.project.*
 sdkconfig.*
